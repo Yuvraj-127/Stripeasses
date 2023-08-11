@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styling.css">
+</head>
+<body>
+    <div id="cart">
+        <table width="100%">
+            <thead>
+            <tr>
+              <td>Mobile Plans</td>
+              <td>Mobile</td>
+               <td>Basic</td>
+              <td>Standard</td>
+              <td>Premium</td>
+            </tr>
+            </thead>
+            <tbody>
+
+            <tr>
+           <td>Monthly</td>
+          <td> $1000</td>
+          <td>$2000</td>
+          <td>$5000</td>
+          <td>$7000</td>
+          </tr>
+              <tr>
+                <td>Video Quality</td>
+                <td> Good</td>
+                <td>Better</td>
+                <td>Best</td>
+                <td>HD</td>
+          </tr>
+              <tr>
+                <td>Resolution</td>
+                <td>480p</td>
+                <td>720P</td>
+                <td>1080P</td>
+                <td>4k+HDR</td>
+          </tr>
+              <tr>
+                <td>Devices Used</td>
+                <td>Phone</td>
+                <td>Phone</td>
+                <td>Phone</td>
+                <td>Phone</td>
+          </tr>
+              <tr>
+                <td></td>
+                <td>Tablet</td>
+                <td>Tablet</td>
+                <td>Tablet</td>
+                <td>Tablet</td>
+          </tr>
+              <tr>
+                <td></td>
+                <td></td>
+                <td>Laptop</td>
+                <td>Laptop</td>
+                <td>Laptop</td>
+          </tr>
+              <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>TV</td>
+                <td>TV</td>
+          </tr>
+
+            </tbody>  
+      </table>
+         
+        
+    </div>
+</body>
+</html>
