@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h2>Create Account</h2>
+        <form action="register.php" method="POST">
+            <label for="name">Username</label>
+            <input type="email" name="Name" placeholder="Name" required>
+            <label for="email">Email</label>
+            <input type="email" name="email" placeholder="Email" required>
+            <label for="password">Password</label>
+            <input type="password" name="password" placeholder="Password" required>
+            
+           
+            <button type="submit">Register</button>
+        </form>
+        <p>Already have an account? <a href="Login.html">Login</a> </p>
+
+    </div> 
+</body>
