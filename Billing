@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+   <div class="pay">
+
+        <div class="payment">
+           <h2>Complete Payment</h2>
+           <p>Enter your credit card details</p>
+            
+           <input type="text" placeholder="Enter Credit Card">
+           <input type="DATE" placeholder="DD/MM/YYYY" >       
+           <button>Confirm Payment</button>    
+        </div>
+        <div class="subtotal">
+           
+                <h3> Order Summary</h3>
+                <table>
+                    <tbody><tr>
+                        <td>Plan</td>
+                        <td>Basic</td>
+    
+                    </tr>
+                    <tr>
+                        <td>Billing Cycle</td>
+                        <td>Monthly</td>
+                    </tr>
+                    <tr>
+                    <td><strong>Plan Price</strong></td>
+                    <td><strong>200/mon</strong></td>
+                    </tr>
+                </tbody></table>
+               
+            </div>
+
+        </div>
+     
+   
+ 
+</body>
+
